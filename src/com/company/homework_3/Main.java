@@ -1,5 +1,7 @@
 package com.company.homework_3;
 
+import com.company.homework_4.LinkedList;
+
 import java.util.Arrays;
 
 public class Main {
